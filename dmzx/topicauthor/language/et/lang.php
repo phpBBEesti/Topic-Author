@@ -15,5 +15,5 @@ if (empty($lang) || !is_array($lang))
 }
 
 $lang = array_merge($lang, array(
-	'TOPIC_AUTHOR'	=> 'Topic author',
+	'TOPIC_AUTHOR'	=> 'Teema autor',
 )); 
